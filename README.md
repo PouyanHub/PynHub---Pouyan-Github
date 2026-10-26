@@ -1,6 +1,5 @@
 # Hi there...👋
 # How are you...?
-# Hi there , How are you doing...?
 <* .
 * Pouyan Eaivazi/PouyanHub** Is a ✨ "Special" ✨ Repository Because Its 'README.md' (This File) Appears On Your GitHub Profile.
 <_ :
